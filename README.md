@@ -13,7 +13,7 @@ But that's not all. Our app effortlessly tracks your emotional journey through y
 | Type     | Tools |
 | -------- | ------- |
 | <b>Development</b>  | Django, SQLite, AWS SQS, TailwindCSS     |
-| <b>Hosting and deployment</b> | Nginx, Gunicorn, DigitalOcean Droplet, GDrive Data Store     |
+| <b>Hosting and deployment</b> | Nginx, Gunicorn, DigitalOcean Droplet, GDrive(Data Store)     |
 | <b>Domain</b>    | https://www.dreamcatcher.buzz (currently inactive)    |
 
 
