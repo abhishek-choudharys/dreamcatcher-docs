@@ -16,3 +16,12 @@ But that's not all. Our app effortlessly tracks your emotional journey through y
 | <b>Hosting and deployment</b> | Nginx, Gunicorn, DigitalOcean Droplet, GDrive Data Store     |
 | <b>Domain</b>    | https://www.dreamcatcher.buzz (currently inactive)    |
 
+
+## Architecture
+
+<p style="text-align: center;">Architecture Overview</p>
+
+![Architecture Overview](./data/deployment.png)
+
+---
+
