@@ -22,3 +22,8 @@ But that's not all. Our app effortlessly tracks your emotional journey through y
 <p style="text-align: center;">Detailed Architectural Diagram</p>
 
 ![Architecture Detailed](./data/dreamcatcher_arch.png)
+
+
+## Snapshots and videos:
+
+Coming Soon
