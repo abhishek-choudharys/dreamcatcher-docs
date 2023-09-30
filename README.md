@@ -7,3 +7,11 @@ But that's not all. Our app effortlessly tracks your emotional journey through y
 
 Experience journaling like never before with our AI-powered companion.
 
+
+## Tech stack:
+<b>Development:</b> Django, SQLite, AWS SQS, TailwindCSS 
+<br>
+<b>Hosting and deployment:</b> Nginx, Gunicorn, DigitalOcean Droplet, GDrive Data Store
+<br>
+<b>Domain:</b> https://www.dreamcatcher.buzz (currently inactive)
+
