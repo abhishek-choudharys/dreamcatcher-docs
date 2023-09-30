@@ -5,7 +5,7 @@ Our intelligent agent delves deep into your writings, offering insightful feedba
 
 But that's not all. Our app effortlessly tracks your emotional journey through your writing, providing valuable insights and reflections that resonate with your feelings, making each entry a profound exploration of your inner world.
 
-Experience journaling like never before with our AI-powered companion.
+<i>"Experience journaling like never before with an AI-powered companion."</i>
 
 
 ## Tech stack:
