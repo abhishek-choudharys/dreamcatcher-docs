@@ -3,7 +3,7 @@ Discover an innovative AI-powered journaling companion designed to transform the
 
 Our intelligent agent delves deep into your writings, offering insightful feedback, helpful suggestions, and even a touch of humor based on your entries. It's not just a journal; it's a conversation with your thoughts.
 
-But that's not all. Our app effortlessly tracks your emotional journey through your writing, providing valuable insights and reflections that resonate with your feelings, making each entry a profound exploration of your inner world.
+But that's not all. The app effortlessly tracks your emotional journey through your writing, providing valuable insights and reflections that resonate with your feelings, making each entry a profound exploration of your inner world.
 
 <i>"Experience journaling like never before with an AI-powered companion."</i>
 
