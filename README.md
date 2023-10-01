@@ -27,3 +27,7 @@ But that's not all. Our app effortlessly tracks your emotional journey through y
 ## Snapshots and videos:
 
 Coming Soon
+
+## Source Code:
+The code for dreamcatcher can be found at this link once it is made public:
+https://github.com/abhishek-choudharys/Dreamcatcher
