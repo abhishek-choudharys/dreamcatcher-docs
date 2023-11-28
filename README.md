@@ -14,7 +14,7 @@ But that's not all. The app effortlessly tracks your emotional journey through y
 | -------- | ------- |
 | <b>Development</b>  | Django, SQLite, AWS SQS, TailwindCSS     |
 | <b>Hosting and deployment</b> | Nginx, Gunicorn, DigitalOcean Droplet, GDrive(Data Store)     |
-| <b>Domain</b>    | https://www.dreamcatcher.buzz (currently inactive)    |
+| <b>Domain</b>    | (currently inactive)    |
 
 
 ## Architecture
